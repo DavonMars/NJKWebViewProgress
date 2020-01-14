@@ -7,6 +7,5 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "NJKWebViewProgress.h"
-@interface ViewController : UIViewController<UIWebViewDelegate, NJKWebViewProgressDelegate>
+@interface ViewController : UIViewController
 @end
